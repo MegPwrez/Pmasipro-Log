@@ -4,6 +4,7 @@
  */
 package siprolongpam;
 import javax.swing.JOptionPane;
+//"029 commit Validdor de triangulo"
 /**
  *
  * @author Gregory Jeronimo

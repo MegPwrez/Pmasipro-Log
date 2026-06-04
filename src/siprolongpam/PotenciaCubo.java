@@ -4,7 +4,7 @@
  */
 package siprolongpam;
 import javax.swing.JOptionPane;
-
+// "010 commit Potencia al cubo"
 /**
  *
  * @author GregoryJeronimo

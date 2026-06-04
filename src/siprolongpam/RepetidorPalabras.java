@@ -4,6 +4,7 @@
  */
 package siprolongpam;
 import javax.swing.JOptionPane;
+// "018 commit repetidor de palabras"
 /**
  *
  * @author Gregory Jeronimo

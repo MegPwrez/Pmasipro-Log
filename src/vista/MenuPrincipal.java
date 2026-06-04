@@ -4,10 +4,44 @@
  */
 package vista;
 
+import controlador.ControladorMatematico;
+import controlador.ControladorCadenas;
+import controlador.ControladorLogica;
+import javax.swing.JOptionPane;
+
 /**
  *
- * @author Amanda Pérez
+ * @author Gregory Jeronimo
  */
 public class MenuPrincipal {
-    
+    public void mostrarMenu() {
+
+        String opcion;
+
+        do {
+
+            opcion = JOptionPane.showInputDialog(
+                    "1. Operaciones Matemáticas\n"
+                    + "2. Cadenas\n"
+                    + "3. Lógica\n"
+                    + "4. Salir");
+
+            switch (opcion) {
+
+                case "1":
+                    new ControladorMatematico().menuMatematico();
+                    break;
+
+                case "2":
+                    new ControladorCadenas().menuCadenas();
+                    break;
+
+                case "3":
+                    new ControladorLogica().menuLogica();
+                    break;
+
+            }
+
+        } while (!opcion.equals("4"));
+    }
 }

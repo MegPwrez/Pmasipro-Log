@@ -6,8 +6,47 @@ package controlador;
 
 /**
  *
- * @author Amanda Pérez
+ * @author Gregory Jeronimo
  */
 public class ControladorMatematico {
-    
+        public void CalculadoraSalario() {
+        
+    }
+
+    public void AreaTriangulo() {
+        
+    }
+
+    public void PromedioAcademico() {
+       
+    }
+
+    public void ConvertidorTemperatura() {
+        
+    }
+
+    public void PerimetroCirculo() {
+        
+    }
+
+    public void VolumenCilindro() {
+       
+    }
+
+    public void Hipotenusa() {
+        
+    }
+
+    public void DiasaMinutos() {
+        
+    }
+
+    public void RestoDivision() {
+       
+    }
+
+    public void PotenciaCubo() {
+        
+    }
+
 }

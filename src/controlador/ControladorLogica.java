@@ -6,8 +6,29 @@ package controlador;
 
 /**
  *
- * @author Amanda Pérez
+ * @author Gregory Jeronimo
  */
 public class ControladorLogica {
-    
+   
+    public void VerificarEdad() {}
+
+    public void NumeroPar() {}
+
+    public void Semaforo() {}
+
+    public void RangoNumerico() {}
+
+    public void LoginSimple() {}
+
+    public void MayorDeDos() {}
+
+    public void AnioBisiesto() {}
+
+    public void AprobadoReprobado() {}
+
+    public void ValidadorTriangulo() {}
+
+    public void ComparadorCadenas() {}
+
 }
+
