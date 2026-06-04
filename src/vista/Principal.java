@@ -3,11 +3,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package vista;
-
+import vista.MenuPrincipal;
 /**
  *
- * @author Amanda Pérez
+ * @author Gregory Jeronimo
  */
 public class Principal {
-    
+     public static void main(String[] args) {
+        MenuPrincipal menu = new MenuPrincipal();
+        menu.mostrarMenu();
+    }
 }
