@@ -4,6 +4,7 @@
  */
 package siprolongpam;
 import javax.swing.JOptionPane;
+//"030 commit Comparador de Cadenas"
 /**
  *
  * @author Gregory Jeronimo
